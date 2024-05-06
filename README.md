@@ -2,7 +2,7 @@
 # Hi there, I'm Noussaiba 👋
 
 ## 🙋‍♀️ About Me
-- 🔭 I’m currently working on developing software tools for chemical analysis.
+- 🔭 I’m currently working on developing software tools  i use DDD model I'm also chemical-phd.
 - 🌱 I’m currently learning Python for data analysis and scientific computing, and actively undergoing a full-stack developer internship as part of my career transition.
 - 🎓 I am preparing for my ISTQB certification to enhance my software testing skills.
 - 👯 I’m open to collaborating with other developers, especially those working in scientific domains such as chemistry, biology, and general sciences.
