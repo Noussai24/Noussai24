@@ -13,11 +13,11 @@
 - ⚡ Fun fact: Besides my passion for science, I enjoy exploring the intersection of technology and art.
 
 ## 🛠 Tech Stack
-- **Languages**: Python (primary), JavaScript
-- **Frameworks/Libraries**: Django, Flask, React, Node.js
+- **Languages**: Python 
+- **Frameworks/Libraries**:
 - **Tools**: GitHub, Docker
-- **Databases**: PostgreSQL, SQLite
-- **Other**: AWS, Basic Machine Learning
+- **Databases**: 
+- **Other**: Basic Machine Learning
 
 ## 📊 GitHub Stats
 ![Noussaiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noussaiba24&show_icons=true&theme=radical)
